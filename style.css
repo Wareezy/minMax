@@ -27,6 +27,7 @@ input {
     margin: 10px auto;
     display: block;
     border: 1px solid #ccc;
+    text-align: center;
     border-radius: 5px;
     width: 50%; /* Make input elements take up the full width */
     box-sizing: border-box; /* Include padding and border in the element's total width */
